@@ -1,22 +1,16 @@
-<header class="site-header" role="banner">
-
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url %}
-
-  <nav class="navbar navbar-dark navbar-toggleable-md bg-dark mb-3">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
+    <a class="site-title navbar-brand" href="#">{{ site.title }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarList" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-        
-    <a class="navbar-brand" href="{{ full_base_url }}/">{{ site.title | escape }}</a>
-    <div class="collapse navbar-collapse" id="navbarNav">  
-    <ul class="navbar-nav mr-auto">
-        {% for my_page in site.pages %} {% if my_page.title %}
+
+    <div class="collapse navbar-collapse" id="navbarList">
+      <ul class="navbar-nav mr-auto">
+        {% for page in site.pages %} {% if page.title %}
         <li class="nav-item">
-          <a class="nav-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>
+            <a class="nav-link" href="{{ page.url | prepend: site_url }}">{{ page.title | escape }}</a>
         </li>
         {% endif %} {% endfor %}
       </ul>
     </div>
   </nav>
-</header>
