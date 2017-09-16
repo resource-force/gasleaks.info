@@ -1,2 +1,3 @@
 # pipefix.ing
-A website displaying gas leaks in and around the Acton/Borough - HTML/Bootstrap
+
+A website displaying gas leaks in and around Acton/Boxborough - HTML/Bootstrap/Jekyll
