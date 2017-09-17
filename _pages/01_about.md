@@ -14,7 +14,7 @@ So, combining HEET and MAPC’s data and NGRID’s own reports, we get a more co
 
 ## Map
 
-[map]
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=16l2SdVll_-lpd2EkCWp_QVsHzPQ" width="100%" height="700px"></iframe>
 
 ## Highlights
 
