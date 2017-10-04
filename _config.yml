@@ -14,13 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gasleaks.info
-author: "Aneesh Edara & Kevin Liu & Kunal Sharda"
-email: 20liuke@abschools.org
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/gasleaks.info/" # temporary for testing github pages
+author: "Kevin Liu & Kunal Sharda"
+email: gasleaksinfo@gmail.com
+description: >
+  Open access to National Grid and HEET's data on gas leaks in Acton
+baseurl: "/gasleaks.info" # temporary for testing github pages
 url: "" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -28,7 +26,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 include: ['_pages']
-exclude: ['.asset-cache', 'vendor']
+exclude: ['.asset-cache', 'vendor', '_site']
 assets:
   compress:
     css: true

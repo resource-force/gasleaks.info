@@ -1,10 +1,10 @@
 ---
-title: About
+title: Map
 permalink: /
 ---
-# Pipe Fix.ing
+# {{ site.title }}
 
-# IN-DEVELOPMENT VERSION. PLEASE SEE http://gasleaks.info FOR THE CURRENT VERSION.
+## IN-DEVELOPMENT VERSION. PLEASE SEE http://gasleaks.info FOR THE CURRENT VERSION.
 
 National Grid has discovered hundreds of gas leaks in Acton, in the gas pipes they laid themselves. Many have been left unfixed for years, and they continue to be severe issues. Furthermore, some leaks have mysteriously disappeared, and are not found on National Grid’s later datasets.
 
