@@ -4,6 +4,8 @@ permalink: /
 ---
 # Pipe Fix.ing
 
+# IN-DEVELOPMENT VERSION. PLEASE SEE http://gasleaks.info FOR THE CURRENT VERSION.
+
 National Grid has discovered hundreds of gas leaks in Acton, in the gas pipes they laid themselves. Many have been left unfixed for years, and they continue to be severe issues. Furthermore, some leaks have mysteriously disappeared, and are not found on National Grid’s later datasets.
 
 Independent researchers such as Bob Ackley, are working to uncover this problem. Participating in a 2016 study by the Home Energy Efficiency Team and the Metropolitan Area Planning Council, Ackley measured far more gas leaks than National Grid in a small 15-mile sample area, including some that release methane in an area spanning over 5000 square feet.
