@@ -20,8 +20,8 @@ description: >
   Open access to National Grid and HEET's data on gas leaks in Acton
 baseurl: "/gasleaks.info" # temporary for testing github pages
 url: "" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: null
+github_username:  null
 
 # Build settings
 markdown: kramdown
