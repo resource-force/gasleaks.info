@@ -26,7 +26,7 @@ github_username:  null
 # Build settings
 markdown: kramdown
 include: ['_pages']
-exclude: ['.asset-cache', 'vendor', '_site']
+exclude: ['.asset-cache', 'vendor', '_site', 'default.nix', 'Makefile']
 assets:
   compress:
     css: true

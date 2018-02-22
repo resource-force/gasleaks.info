@@ -20,6 +20,6 @@ group :jekyll_plugins do
   # gem "jekyll-github-metadata", "~> 1.0"
   gem 'bootstrap', '~> 4.0.0.beta'
   gem 'autoprefixer-rails'
-  gem 'jekyll-assets'
+  gem 'jekyll-assets', '~> 2.3.2'
   gem 'octopress-minify-html'
 end

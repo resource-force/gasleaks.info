@@ -261,11 +261,11 @@ DEPENDENCIES
   autoprefixer-rails
   bootstrap (~> 4.0.0.beta)
   github-pages
-  jekyll-assets
+  jekyll-assets (~> 2.3.2)
   octopress-minify-html
 
 RUBY VERSION
-   ruby 2.4.1p111
+   ruby 2.4.3p205
 
 BUNDLED WITH
    1.15.4

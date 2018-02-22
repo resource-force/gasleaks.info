@@ -1,10 +1,13 @@
 ---
 title: Map
 permalink: /
+layout: default
 ---
+
 # Acton Gas Leak Areas Map
 
 {% if jekyll.environment == "development" %}
+
 <div class="alert alert-danger" role="alert">
 This is a <strong>pre-production</strong> version of gasleaks.info. See <a href="http://gasleaks.info">http://gasleaks.info</a> for the official site.
 </div>
@@ -31,8 +34,8 @@ To create this map, we combined leaks from the following datasets:
 1. NGRID's Acton Repaired 2016 (courtesy of HEET).
 2. NGRID's Acton Unrepaired 2016 (courtesy of HEET).
 3. NGRID's Acton Repaired from 2017-03-01 to 2017-09-05 (courtesy of Corey York).
-3. MAPC-HEET's 15-mile study, created in 2016 via a federal grant.
-4. NGRID's leaks that were on their 2014 dataset, but gone on the 2015 set: labeled "missing" on the map (courtesy of HEET).
+4. MAPC-HEET's 15-mile study, created in 2016 via a federal grant.
+5. NGRID's leaks that were on their 2014 dataset, but gone on the 2015 set: labeled "missing" on the map (courtesy of HEET).
 
 Combining HEET and MAPC’s independent data and NGRID’s own reports, we get a more complete view of Acton's hidden leaks.
 
