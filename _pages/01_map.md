@@ -13,45 +13,59 @@ This is a <strong>pre-production</strong> version of gasleaks.info. See <a href=
 </div>
 {% endif %}
 
-New information has recently come to light that there are a large number of natural gas leaks in National Grid pipelines in Acton. These leaks **contribute to global climate change, can kill street trees and can harm human health**. They are also expensive, as the cost of this lost gas is passed on to customers. You may not be able to see gas leaking into the air, but the effects of it are undeniably harmful. We encourage you to use this map to educate yourself on the distribution of gas leaks in Acton.
+Recent information has emerged documenting more than 250 natural gas leaks in Acton’s pipelines. Natural gas leaks are mostly methane, and they contribute significantly to global climate change, sicken and kill street trees and can harm human health. These leaks are also expensive, as the cost of this lost gas is passed on to customers. You may not be able to see gas leaking into the air, but the effects of it are undeniably harmful.
+
+The largest gas leaks are a high priority for repair because they are emitting large, environmentally significant amounts of methane. We encourage you to use this map to educate yourself on the distribution and size of gas leaks in Acton.
 
 <div markdown="1" class="p-3 text-light bg-dark rounded mb-3">
 ## The Map
 
-Click on each map location for detail. Info is subject to change, as leaks may have developed or been repaired since the most recent data received.
+You can zoom in on the map for more information. When you click on an individual leak location, a “card” will open with additional detail. You can also use the search bar to find information about a specific street name.
 
-Gas leak locations are recorded as street addresses; please note that the **leak area is near the pipeline at the street, not at the residence itself** (although Google Maps may place pins at a residence).
+Gas leak locations are recorded as street addresses; please note that the leak locations referenced on this map are near the pipeline at the street, not at the residence itself (although Google Maps may place pins at a residence).
 
-If you smell gas, please [contact National Grid](https://www.nationalgridus.com/MA-Home/Safety/Report-a-gas-emergency). Leaks and repairs are the responsibility of National Grid (not the Town of Acton).
+If you smell gas, please [contact National Grid](https://www.nationalgridus.com/MA-Home/Safety/Report-a-gas-emergency) at 1-800-233-5325. Pipelines are owned by National Grid (NGRID), and leaks and repairs are the responsibility of the utility, not the Town of Acton.
+
+Info is subject to change, as leaks may have developed or been repaired since the most recent data received (see below).
 
 <iframe src="https://www.google.com/maps/d/u/3/embed?mid=16l2SdVll_-lpd2EkCWp_QVsHzPQ" width="100%" height="700px" class="rounded"></iframe>
 </div>
 
-## Details
+## Gas Leak Data
 
 To create this map, we combined leaks from the following datasets:
 
-1. NGRID's Acton Repaired 2016 (courtesy of HEET).
-2. NGRID's Acton Unrepaired 2016 (courtesy of HEET).
-3. NGRID's Acton Repaired from 2017-03-01 to 2017-09-05 (courtesy of Corey York).
-4. MAPC-HEET's 15-mile study, created in 2016 via a federal grant.
-5. NGRID's leaks that were on their 2014 dataset, but gone on the 2015 set: labeled "missing" on the map (courtesy of HEET).
+1.  **2017 Town of Acton Survey** ([here](https://drive.google.com/open?id=0BxvhjeQ0TJG_THdnWjI3VU1KaV9CcXNyVzFXVG9sR18tT3cw), [here](https://drive.google.com/open?id=1nV2a3OB_r-Emk_Xo2kaxILuWLnn1_I8hwTTdMgnNQ48) and [here](https://drive.google.com/open?id=1ePh0lHJYezPXJf7OR0eT9iEuPEnbpcB0)) — independent 2017 town-wide survey for gas leaks along Acton’s roadways, conducted by Gas Safety Inc. at the direction of the Acton Board of Selectmen.
+2.  **2017 NGRID Unrepaired (via HEET)** — unrepaired leaks in 2017 as reported by NGRID (compiled by [HEET](https://www.heetma.org/squeaky-leak/natural-gas-leaks-maps/) from NGRID data).
+3.  **2017 NGRID Repaired (via HEET)** — leaks reported by NGRID as repaired in 2017 (compiled by [HEET](https://www.heetma.org/squeaky-leak/natural-gas-leaks-maps/) from NGRID data)
+4.  **2016 MAPC-HEET Survey** — independent 2016 survey by [MAPC](https://www.mapc.org/) & [HEET](https://www.heetma.org/squeaky-leak/natural-gas-leaks-maps/) of gas leaks along 15 miles of Acton roadways as part of the Fixing Our Pipes study, along with roadways in 14 other towns.
+5.  **2016 NGRID Repaired (via HEET)** — leaks reported by NGRID as repaired in 2016 (compiled by [HEET](https://www.heetma.org/squeaky-leak/natural-gas-leaks-maps/) from NGRID data)
+6.  **2016 NGRID Unrepaired (via HEET)** — unrepaired leaks in 2016 as reported by NGRID (compiled by [HEET](https://www.heetma.org/squeaky-leak/natural-gas-leaks-maps/) from NGRID data).
+7.  **2015 NGRID Missing (via HEET)** — unrepaired leaks from NGRID 2014 dataset that were not carried over to 2015 & 2016 datasets (compiled by [HEET](https://www.heetma.org/squeaky-leak/natural-gas-leaks-maps/) from NGRID data). See [Lost Leaks website](http://lostleaks.csail.mit.edu/) for additional information.
 
-Combining HEET and MAPC’s independent data and NGRID’s own reports, we get a more complete view of Acton's hidden leaks.
+The 2017 Town of Acton Survey ([here](https://drive.google.com/open?id=0BxvhjeQ0TJG_THdnWjI3VU1KaV9CcXNyVzFXVG9sR18tT3cw), [here](https://drive.google.com/open?id=1nV2a3OB_r-Emk_Xo2kaxILuWLnn1_I8hwTTdMgnNQ48) and [here](https://drive.google.com/open?id=1ePh0lHJYezPXJf7OR0eT9iEuPEnbpcB0)) is especially valuable as it provides considerable detail, some of which is visible on the “card” that opens when you click on a leak on the online map. Information from this 2017 survey includes:
 
-For example, there are several places where a National Grid leak overlaps with one from the independent study, but also many independently-discovered leaks with no corresponding National Grid report. The independent study also reports five leak areas that extend over more than 5,000 square feet each, clustered on Prospect Street.
+* a “footprint” measurement indicating how many square feet of soil are saturated with natural gas (mostly methane) at a location - this is an indicator of the size of the actual leak in the pipeline, and how much methane is escaping. The largest leaks are a high priority for repair because they are emitting large, environmentally significant amounts of methane.
+* whether a tree is nearby, which is significant as gas leaks can sicken and kill trees.
+
+Further detail is available in the report and field sketch for each leak (listed by street name in alphabetical order).
+
+NGRID datasets give addresses for leaks, but no information on leak size or other detail is available.
+
+## Resources
+
+For more information, see:
+
+* [Gas Leaks: A Hidden Culprit for Dead Trees](https://stateimpact.npr.org/pennsylvania/2015/11/27/gas-leaks-a-hidden-culprit-for-dead-trees/) (2015) S. Phillips, NPR
+* [Fixing Our Pipes: Coordinating Natural Gas Main Replacement](http://fixourpipes.org/) (2016) MAPC & HEET
+* [How Bad of a Greenhouse Gas is Methane?](https://www.scientificamerican.com/article/how-bad-of-a-greenhouse-gas-is-methane/) (2015) G. Vaidyanathan, Scientific American
+* [Project Reveals 20,000 Leaks in Mass Gas Lines](https://www.bostonglobe.com/metro/2015/08/20/new-law-casts-light-state-natural-gas-leaks/qJJPCjRZITc5ai0JeHNOqO/story.html) (2015) D. Abel, Boston Globe
+* [Fugitive Methane Emissions from Leak-prone Natural Gas Distribution Infrastructure in Urban Environments](https://www.bu.edu/ise/files/2016/08/1-s2.0-S0269749116300938-main.pdf) (2016) M. Hendrick et al., Environmental Pollution
+* [Advocacy Update: Gas Leaks and Their Impact on Trees](http://friendsofthepublicgarden.org/2017/11/16/advocacy-update-gas-leaks-and-their-impact-on-trees/) (2017) Friends of the Public Garden
 
 ## Data Sources
 
-All data sources, spreadsheets, and information are publicly available from [this Google Drive folder](https://drive.google.com/open?id=0BxvhjeQ0TJG_dTRHQzdXMWMwZ2M).
-
-The map was built from [the spreadsheet "Universal List of Gas Leak Areas"](https://docs.google.com/spreadsheets/d/1e88W9qygYjCi8ZELTvjaY0qYX0ZT344TDZgfmY6_Od4/edit?usp=sharing), which is a unified compilation of [each data set's source spreadsheet](https://drive.google.com/open?id=0B4AE4ExiJ9zua2gtaDVTdEpOYmc).
-
-## Future
-
-There are several inconsistencies in our current data sets (such as leaks without a street number and leaks that are reported as both repaired and unrepaired in the same year) that we would like to clarify and address.
-
-Furthermore, while the MAPC-HEET study only covered around fifteen miles of Acton, the Acton Board of Selectmen is planning to sponsor a more comprehensive independent study of the entirety of Acton. Once the results are published, we would like to add them to the map.
+The original gas leak reports are currently under review and will be published in unaltered form following approval and organization.
 
 ## Contributors
 

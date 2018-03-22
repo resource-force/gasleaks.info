@@ -7,12 +7,11 @@ stdenv.mkDerivation {
   buildInputs = [
     # for makefile
     gnumake
-    # Ruby deps
-    bundler
     # ffi & native depends
     nodejs-8_x
     gcc
     libffi
     zlib
+    ruby
   ];
 }
