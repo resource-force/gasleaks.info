@@ -60,7 +60,7 @@ NGRID datasets give addresses for leaks, but no information on leak size or othe
 
 ## Resources
 
-For more information, Resource Force has created a presentation about natural gas (methane) leaks in Acton linked [here][presentation].
+Resource Force has created a presentation about natural gas (methane) leaks in Acton linked [here][presentation].
 
 An Acton TV video of the Gas Leaks Forum at Acton Town Hall (March 22, 2018) is also linked [here][acton-tv].
 
@@ -69,7 +69,7 @@ An Acton TV video of the Gas Leaks Forum at Acton Town Hall (March 22, 2018) is 
 
 For further reading, see:
 
-* S. Phillips, [Gas Leaks: A Hidden Culprit for Dead Trees](https://stateimpact.npr.org/pennsylvania/2015/11/27/gas-leaks-a-hidden-culprit-for-dead-trees/) (2015) S. Phillips, NPR
+* S. Phillips, [Gas Leaks: A Hidden Culprit for Dead Trees](https://stateimpact.npr.org/pennsylvania/2015/11/27/gas-leaks-a-hidden-culprit-for-dead-trees/) (2015), NPR
 * MAPC and HEET, [Fixing Our Pipes: Coordinating Natural Gas Main Replacement](http://fixourpipes.org/)
 * G. Vaidyanathan, [How Bad of a Greenhouse Gas is Methane?](https://www.scientificamerican.com/article/how-bad-of-a-greenhouse-gas-is-methane/) (2015), Scientific American
 * D. Abel, [Project Reveals 20,000 Leaks in Mass Gas Lines](https://www.bostonglobe.com/metro/2015/08/20/new-law-casts-light-state-natural-gas-leaks/qJJPCjRZITc5ai0JeHNOqO/story.html) (2015), Boston Globe
