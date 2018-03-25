@@ -49,7 +49,7 @@ The 2017 Town of Acton Survey ([here][town of acton report], [here][town of acto
 * A "footprint" measurement indicating how many square feet of soil are saturated with natural gas at a location - this is an indicator of the size of the actual leak in the pipeline, and how much methane is escaping.
 * Whether a tree is nearby, which is significant as gas leaks can sicken and kill trees.
 
-Further detail is available in the report and field sketch for each leak (listed by street name in alphabetical order).
+Further detail is available in the [report and field sketch][town of acton leak reports] for each leak (listed by street name in alphabetical order).
 
 NGRID datasets give addresses for leaks, but no information on leak size or other detail is available.
 
