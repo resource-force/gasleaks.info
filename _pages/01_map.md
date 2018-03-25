@@ -80,7 +80,7 @@ For further reading, see:
 
 All original data sources are publicly available at [this Google Drive folder][original data sources]. Some of the spreadsheets have been converted to Google Sheets format, but no data has been altered.
 
-The map was built from [the spreadsheet "Universal List of Gas Leak Areas"][universal list], which is a unified compilation made from each data set’s source spreadsheet.
+The map was built from [the spreadsheet "Universal List of Gas Leak Areas"][universal list], which is a unified compilation made from each dataset’s source spreadsheet.
 
 [original data sources]: https://drive.google.com/drive/folders/0B4AE4ExiJ9zua2gtaDVTdEpOYmc
 [universal list]: https://docs.google.com/spreadsheets/d/1e88W9qygYjCi8ZELTvjaY0qYX0ZT344TDZgfmY6_Od4/edit?usp=sharing
