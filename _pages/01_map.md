@@ -13,7 +13,7 @@ This is a <strong>pre-production</strong> version of gasleaks.info. See <a href=
 </div>
 {% endif %}
 
-Recent information has emerged documenting more than 250 natural gas leaks in Acton’s pipelines. Natural gas leaks are mostly methane, and they contribute significantly to global climate change, sicken and kill street trees and can harm human health. These leaks are also expensive, as the cost of this lost gas is passed on to customers. You may not be able to see gas leaking into the air, but the effects of it are undeniably harmful.
+Hundreds of natural gas leaks are now documented in Acton’s pipelines. Natural gas leaks are mostly methane, and they contribute significantly to global climate change, sicken and kill street trees and can harm human health. These leaks are also expensive, as the cost of this lost gas is passed on to customers. You may not be able to see gas leaking into the air, but the effects of it are undeniably harmful.
 
 The largest gas leaks are a high priority for repair because they are emitting large, environmentally significant amounts of methane. We encourage you to use this map to educate yourself on the distribution and size of gas leaks in Acton.
 
