@@ -21,7 +21,10 @@ The largest gas leaks are a high priority for repair because they are emitting l
 
 ## The Map
 
-You can zoom in on the map for more information. When you click on an individual leak location, a “card” will open with additional detail. If you click on the symbols at the top of the map, you will find a key and a search bar.
+You can zoom in on the map for more information. When you click on an individual leak location, a “card” will open with additional detail. Click on this symbol ![of a card opening to the right][key] for a map key. Click on this symbol ![of four brackets][fullscreen] to open a search bar to look up specific streets.
+
+[key]: {{ "/static/icon-key.png" | absolute_url }}
+[fullscreen]: {{ "/static/icon-fullscreen.png" | absolute_url }}
 
 Gas leak locations are recorded as street addresses; please note that the leak locations referenced on this map are near the pipeline at the street, not at the residence itself (although Google Maps may place pins at a residence).
 
@@ -46,8 +49,8 @@ To create this map, we combined leaks from the following datasets:
 
 The 2017 Town of Acton Survey ([here][town of acton report], [here][town of acton data], and [here][town of acton leak reports]) is especially valuable as it provides considerable detail, some of which is visible on the "card" that opens when you click on a leak on the online map. Information from this 2017 survey includes:
 
-* A "footprint" measurement indicating how many square feet of soil are saturated with natural gas at a location - this is an indicator of the size of the actual leak in the pipeline, and how much methane is escaping.
-* Whether a tree is nearby, which is significant as gas leaks can sicken and kill trees.
+- A "footprint" measurement indicating how many square feet of soil are saturated with natural gas at a location - this is an indicator of the size of the actual leak in the pipeline, and how much methane is escaping.
+- Whether a tree is nearby, which is significant as gas leaks can sicken and kill trees.
 
 Further detail is available in the [report and field sketch][town of acton leak reports] for each leak (listed by street name in alphabetical order).
 
@@ -60,21 +63,23 @@ NGRID datasets give addresses for leaks, but no information on leak size or othe
 
 ## Resources
 
-Resource Force has created a presentation about natural gas (methane) leaks in Acton linked [here][presentation].
+Resource Force has created a presentation about natural gas (methane) leaks in Acton linked [here][presentation]. An Acton TV video of the Gas Leaks Forum at Acton Town Hall (March 22, 2018) is also linked [here][acton tv].
 
-An Acton TV video of the Gas Leaks Forum at Acton Town Hall (March 22, 2018) is also linked [here][acton-tv].
+To find out more about outreach and education on fixing gas leaks, contact [Home Energy Efficiency Team][heet] and [Mothers Out Front][mothers out front].
 
 [presentation]: {{ site.baseurl }}{% link /static/actons-methane-leaks-presentation.pdf %}
-[acton-tv]: https://www.youtube.com/watch?v=6EHJfwujSdo
+[acton tv]: https://www.youtube.com/watch?v=6EHJfwujSdo
+[heet]: https://heetma.org/gas-leaks/
+[mothers out front]: https://ma.mothersoutfront.org/working_to_fix_gas_leaks
 
 For further reading, see:
 
-* S. Phillips, [Gas Leaks: A Hidden Culprit for Dead Trees](https://stateimpact.npr.org/pennsylvania/2015/11/27/gas-leaks-a-hidden-culprit-for-dead-trees/) (2015), NPR
-* MAPC and HEET, [Fixing Our Pipes: Coordinating Natural Gas Main Replacement](http://fixourpipes.org/)
-* G. Vaidyanathan, [How Bad of a Greenhouse Gas is Methane?](https://www.scientificamerican.com/article/how-bad-of-a-greenhouse-gas-is-methane/) (2015), Scientific American
-* D. Abel, [Project Reveals 20,000 Leaks in Mass Gas Lines](https://www.bostonglobe.com/metro/2015/08/20/new-law-casts-light-state-natural-gas-leaks/qJJPCjRZITc5ai0JeHNOqO/story.html) (2015), Boston Globe
-* M. Hendrick et al., [Fugitive Methane Emissions from Leak-prone Natural Gas Distribution Infrastructure in Urban Environments](https://www.bu.edu/ise/files/2016/08/1-s2.0-S0269749116300938-main.pdf) (2016), Environmental Pollution
-* Friends of the Public Garden, [Advocacy Update: Gas Leaks and Their Impact on Trees](http://friendsofthepublicgarden.org/2017/11/16/advocacy-update-gas-leaks-and-their-impact-on-trees/) (2017)
+- S. Phillips, [Gas Leaks: A Hidden Culprit for Dead Trees](https://stateimpact.npr.org/pennsylvania/2015/11/27/gas-leaks-a-hidden-culprit-for-dead-trees/) (2015), NPR
+- MAPC and HEET, [Fixing Our Pipes: Coordinating Natural Gas Main Replacement](http://fixourpipes.org/)
+- G. Vaidyanathan, [How Bad of a Greenhouse Gas is Methane?](https://www.scientificamerican.com/article/how-bad-of-a-greenhouse-gas-is-methane/) (2015), Scientific American
+- D. Abel, [Project Reveals 20,000 Leaks in Mass Gas Lines](https://www.bostonglobe.com/metro/2015/08/20/new-law-casts-light-state-natural-gas-leaks/qJJPCjRZITc5ai0JeHNOqO/story.html) (2015), Boston Globe
+- M. Hendrick et al., [Fugitive Methane Emissions from Leak-prone Natural Gas Distribution Infrastructure in Urban Environments](https://www.bu.edu/ise/files/2016/08/1-s2.0-S0269749116300938-main.pdf) (2016), Environmental Pollution
+- Friends of the Public Garden, [Advocacy Update: Gas Leaks and Their Impact on Trees](http://friendsofthepublicgarden.org/2017/11/16/advocacy-update-gas-leaks-and-their-impact-on-trees/) (2017)
 
 ## Data Sources
 
@@ -87,4 +92,4 @@ The map was built from [the spreadsheet "Universal List of Gas Leak Areas"][univ
 
 ## Contributors
 
-This map has been created by members of the Acton-Boxborough Resource Force, working to educate our community on the issue of gas leaks and moving towards a sustainable future. See the [About page]({{ site.baseurl }}/about) for more details.
+This map has been created by members of the Acton-Boxborough Resource Force, working to educate our community on the issue of gas leaks and moving towards a sustainable future. See the [About page]({{ "/about" | absolute_url }}) for more details.
