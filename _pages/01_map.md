@@ -21,7 +21,7 @@ The largest gas leaks are a high priority for repair because they are emitting l
 
 ## The Map
 
-You can zoom in on the map for more information. When you click on an individual leak location, a “card” will open with additional detail. Click on this symbol ![of a card opening to the right][key] for a map key. Click on this symbol ![of four brackets][fullscreen] to open a search bar to look up specific streets.
+You can zoom in on the map for more information. When you click on an individual leak location, a “card” will open with additional detail. Click on this symbol ![of a card opening to the right][key] for a map key. Click on this symbol ![of four brackets][fullscreen] to open a larger map and search bar to look up specific streets.
 
 [key]: {{ "/static/icon-key.png" | absolute_url }}
 [fullscreen]: {{ "/static/icon-fullscreen.png" | absolute_url }}
