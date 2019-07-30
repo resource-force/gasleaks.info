@@ -18,10 +18,8 @@ author: "Kevin Liu & Kunal Sharda"
 email: gasleaksinfo@gmail.com
 description: >
   Open access to National Grid, HEET's, and Gas Safety Inc.'s' data on gas leaks in Acton, MA
-baseurl: "/gasleaks.info" # temporary for testing github pages
+baseurl: ""
 url: "" # the base hostname & protocol for your site
-twitter_username: null
-github_username:  null
 
 # Build settings
 markdown: kramdown
