@@ -13,5 +13,6 @@ stdenv.mkDerivation {
     libffi
     zlib
     ruby
+    bundler
   ];
 }
