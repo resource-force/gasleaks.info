@@ -65,7 +65,7 @@ NGRID datasets give addresses for leaks, but no information on leak size or othe
 
 ## New Changes (as of July 2019)
 
-As of July 2019, HEET has released the Unrepaired and Repaired data from NGRID for 2018. We have updated the map accordingly. We have also renamed the 2000 sq. ft.+ category to **Grade 3 Significant Environmental Impact**, as [specified by new Department of Public Utilities regulations][wbur], and removed the "Acton independent survey" suffix from the sized leak categories.
+As of July 2019, HEET has released the Unrepaired and Repaired data from NGRID for 2018. We have updated the map accordingly. We have also renamed the 2,000 sq. ft.+ category to **Grade 3 Significant Environmental Impact** to align with [new Department of Public Utilities terminology][wbur], and removed the "Acton independent survey" suffix from the sized leak categories.
 
 You can view the previous version of the site (v2) [here](https://v2.gasleaks.info), as well as v1 [here](https://v1.gasleaks.info).
 
