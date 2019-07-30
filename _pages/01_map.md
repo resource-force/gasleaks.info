@@ -32,20 +32,22 @@ If you smell gas, please [contact National Grid](https://www.nationalgridus.com/
 
 Info is subject to change, as leaks may have developed or been repaired since the most recent data received (see below).
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1EEhfSDBsQtq_CUSInLth2JPRpEh3ejaf" width="100%" height="700px" class="rounded"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ye6_zN4IB3yWlJxgTG3auxdFc4zXyqdP" width="100%" height="700px" class="rounded"></iframe>
 </div>
 
 ## Gas Leak Data
 
 To create this map, we combined leaks from the following datasets:
 
+1.  **2018 NGRID Unrepaired (via HEET)** — unrepaired leaks in 2018 as reported by NGRID (compiled by [HEET][heet squeaky leak] from NGRID data).
+1.  **2018 NGRID Repaired (via HEET)** — leaks reported by NGRID as repaired in 2018 (compiled by [HEET][heet squeaky leak] from NGRID data).
 1.  **2017 Town of Acton Survey** ([here][town of acton report], [here][town of acton data], and [here][town of acton leak reports]) — independent 2017 town-wide survey for gas leaks along Acton’s roadways, conducted by Gas Safety Inc. at the direction of the Acton Board of Selectmen.
-2.  **2017 NGRID Unrepaired (via HEET)** — unrepaired leaks in 2017 as reported by NGRID (compiled by [HEET][heet squeaky leak] from NGRID data).
-3.  **2017 NGRID Repaired (via HEET)** — leaks reported by NGRID as repaired in 2017 (compiled by [HEET][heet squeaky leak] from NGRID data)
-4.  **2016 MAPC-HEET Survey** — independent 2016 survey by [MAPC](https://www.mapc.org/) & [HEET][heet squeaky leak] of gas leaks along 15 miles of Acton roadways as part of the Fixing Our Pipes study, along with roadways in 14 other towns.
-5.  **2016 NGRID Repaired (via HEET)** — leaks reported by NGRID as repaired in 2016 (compiled by [HEET][heet squeaky leak] from NGRID data)
-6.  **2016 NGRID Unrepaired (via HEET)** — unrepaired leaks in 2016 as reported by NGRID (compiled by [HEET][heet squeaky leak] from NGRID data).
-7.  **2015 NGRID Missing (via HEET)** — unrepaired leaks from NGRID 2014 dataset that were not carried over to 2015 & 2016 datasets (compiled by [HEET][heet squeaky leak] from NGRID data). See [Lost Leaks website](http://lostleaks.csail.mit.edu/) for additional information.
+1.  **2017 NGRID Unrepaired (via HEET)** — unrepaired leaks in 2017 as reported by NGRID (compiled by [HEET][heet squeaky leak] from NGRID data).
+1.  **2017 NGRID Repaired (via HEET)** — leaks reported by NGRID as repaired in 2017 (compiled by [HEET][heet squeaky leak] from NGRID data).
+1.  **2016 MAPC-HEET Survey** — independent 2016 survey by [MAPC](https://www.mapc.org/) & [HEET][heet squeaky leak] of gas leaks along 15 miles of Acton roadways as part of the Fixing Our Pipes study, along with roadways in 14 other towns.
+1.  **2016 NGRID Repaired (via HEET)** — leaks reported by NGRID as repaired in 2016 (compiled by [HEET][heet squeaky leak] from NGRID data).
+1.  **2016 NGRID Unrepaired (via HEET)** — unrepaired leaks in 2016 as reported by NGRID (compiled by [HEET][heet squeaky leak] from NGRID data).
+1.  **2015 NGRID Missing (via HEET)** — unrepaired leaks from NGRID 2014 dataset that were not carried over to 2015 & 2016 datasets (compiled by [HEET][heet squeaky leak] from NGRID data). See [Lost Leaks website](http://lostleaks.csail.mit.edu/) for additional information.
 
 The 2017 Town of Acton Survey ([here][town of acton report], [here][town of acton data], and [here][town of acton leak reports]) is especially valuable as it provides considerable detail, some of which is visible on the "card" that opens when you click on a leak on the online map. Information from this 2017 survey includes:
 
@@ -60,6 +62,14 @@ NGRID datasets give addresses for leaks, but no information on leak size or othe
 [town of acton report]: https://drive.google.com/open?id=0BxvhjeQ0TJG_THdnWjI3VU1KaV9CcXNyVzFXVG9sR18tT3cw
 [town of acton data]: https://drive.google.com/open?id=1nV2a3OB_r-Emk_Xo2kaxILuWLnn1_I8hwTTdMgnNQ48
 [town of acton leak reports]: https://drive.google.com/file/d/1ePh0lHJYezPXJf7OR0eT9iEuPEnbpcB0/view
+
+## New Changes (as of July 2019)
+
+As of July 2019, HEET has released the Unrepaired and Repaired data from NGRID for 2018. We have updated the map accordingly. We have also renamed the 2000 sq. ft.+ category to **Grade 3 Significant Environmental Impact**, as [specified by new Department of Public Utilities regulations][wbur], and removed the "Acton independent survey" suffix from the sized leak categories.
+
+You can view the previous version of the site (v2) [here](https://v2.gasleaks.info), as well as v1 [here](https://v1.gasleaks.info).
+
+[wbur]: https://www.wbur.org/earthwhile/2019/04/01/natural-gas-methane-leaks-massachusetts-rule
 
 ## Resources
 
