@@ -5,7 +5,6 @@ clean:
 
 configure:
 	bundle install --path=vendor
-	bundle update
 
 serve:
 	bundle exec jekyll serve
