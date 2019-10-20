@@ -8,7 +8,7 @@ stdenv.mkDerivation {
     # for makefile
     gnumake
     # ffi & native depends
-    nodejs-8_x
+    nodejs-10_x
     gcc
     libffi
     zlib

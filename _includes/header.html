@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-3">
   <a class="site-title navbar-brand" href="/">{{ site.title }}</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarList" aria-controls="navbarsExampleDefault"
-    aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarList"
+    aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
@@ -14,9 +14,13 @@
         <a class="nav-link" href="https://v2.gasleaks.info">v2</a>
       </li>
       {% for page in site.pages %} {% if page.title %}
+
+      {% unless page.exclude %}
       <li class="nav-item">
         <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title | escape }}</a>
       </li>
+      {% endunless %}
+
       {% endif %} {% endfor %}
     </ul>
   </div>
