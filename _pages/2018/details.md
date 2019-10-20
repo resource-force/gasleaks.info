@@ -6,7 +6,11 @@ layout: default
 exclude: true
 ---
 
-# 2018 Gas Leak Update — Details
+<h1 style="text-align: center" markdown="1">
+![2018 Acton Gas Leak Data Update - Details]({{ site.baseurl }}/static/2018-update-header.png)
+</h1>
+
+<p style="text-align: center; font-size: 2em">Additional Details</p>
 
 ## Table 3: Unmappable Leaks
 
